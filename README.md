@@ -30,3 +30,7 @@ Training Arguments: Batch size per GPU at training=4, Gradient-accumulation step
 
 Trainer Configuration: For supervised fine-tuning, SFT Trainer is configured. Default maximum
 sequence length is used. 
+# Contributions
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
